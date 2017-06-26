@@ -2,6 +2,10 @@
 
 NPM module to convert an uid into an username
 
+## See also
+
+The "other way round" does my other NPM module `user-to-uid`.
+
 ## Install
 
 ```shell
