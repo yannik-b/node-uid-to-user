@@ -15,7 +15,7 @@ npm install uid-to-user
 ## Usage
 
 ```javascript
-const uidToUser = require('./app');
+const uidToUser = require('uid-to-user');
 
 uidToUser(0)
   .then((username) => {
