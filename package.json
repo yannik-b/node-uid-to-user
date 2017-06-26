@@ -1,6 +1,6 @@
 {
   "name": "uid-to-user",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts an uid to an username",
   "main": "app.js",
   "scripts": {
