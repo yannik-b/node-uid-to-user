@@ -1,0 +1,26 @@
+{
+  "name": "uid-to-user",
+  "version": "1.0.0",
+  "description": "Converts an uid to an username",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannik-b/node-uid-to-user.git"
+  },
+  "keywords": [
+    "uid",
+    "user",
+    "linux",
+    "unix",
+    "username"
+  ],
+  "author": "Yannik Buerkle <mail@yannik-buerkle.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yannik-b/node-uid-to-user/issues"
+  },
+  "homepage": "https://github.com/yannik-b/node-uid-to-user#readme"
+}
