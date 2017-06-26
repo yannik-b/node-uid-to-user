@@ -1,4 +1,4 @@
-const uidToUser = require('./app');
+const uidToUser = require('../app');
 
 uidToUser(0)
   .then((username) => {
